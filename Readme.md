@@ -19,7 +19,7 @@ Happy to be asked any questions.
 
 What I can work with:
 
-<a href="https://drive.google.com/file/d/1u2qbvyikSO1J8KKhw0A316kaoQ_06sWe/view?usp=sharing"> My curriculum vitae </a>
+<a href="https://drive.google.com/file/d/1gIn7JFdIJQl_ZEhIU6PYmg2pb9gSNy98/view?usp=sharing"> My curriculum vitae </a>
 
 Languages:
 - Python
