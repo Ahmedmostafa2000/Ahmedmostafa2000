@@ -9,7 +9,7 @@ Who I am:
 
 What I am doing:
 
-- I am actually having fun, but more specific I am learning machine learning [Supervised, Unsupevised, semi-supervised, Regression, Classification] and deep learning (ANN,CNN,RNN,LSTM,GRU) techniques and I am learning more and more about computer vision plus I am starting to learn Reinforcement learning, and I really wish to develop my self so one  day I could be qualified to be one of the best researchers, CEOs, course instructors in the world. ISA
+- I am actually having fun, but more specificly I am learning machine learning [Supervised, Unsupevised, semi-supervised, Regression, Classification] and deep learning (ANN,CNN,RNN,LSTM,GRU) techniques and I am learning more and more about computer vision plus I am starting to learn Reinforcement learning, and I really wish to develop my self so one  day I could be qualified to be one of the best researchers, CEOs, course instructors in the world. ISA
 
 How to contact me:
 
