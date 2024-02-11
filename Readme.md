@@ -25,7 +25,7 @@ What I can work with:
 Languages:
 - Python
 - C
-- julia
+- C++
 
 Libraries/workframes:
 - numpy
