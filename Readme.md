@@ -1,11 +1,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-mostafa-2bb023174/)  
 
 Who I am:
-- My name is Ahmad Mostafa Mohamed <img width="40%" align="right" alt="My github status" src="https://github-readme-stats.vercel.app/api?username=ahmedmostafa2000&show_icons=true&count_private=true" />
-- I am an AI enthusiast, And I like to call myself an AI practitioner as Andrew ng liked to call his courses’ students
-- I have always seen a potential in AI, In fact I can not stop thinking about how much the AI or the tech in general could solve most of the problems we are facing today and makes our lives better if it was implemented and engineered correctly
-- I think one day we will have an AI supportive machines that we would consider to be friends ISA
-- I think one day I will leave a mark in the AI field ISA
+- I am Ahmad Mostafa Mohamed <img width="40%" align="right" alt="My github status" src="https://github-readme-stats.vercel.app/api?username=ahmedmostafa2000&show_icons=true&count_private=true" />
+- I am an AI enthusiast, And I like to call myself an AI practitioner.
 
 What I am doing:
 
